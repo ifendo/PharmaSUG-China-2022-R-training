@@ -9,4 +9,5 @@
 ## shiny part 2 - Jerry Wang
 
 [Shiny-part-2 repo](https://github.com/ifendo/shiny-advanced)
+
 [Shiny-part-2 slides](https://ifendo.github.io/shiny-advanced/)
